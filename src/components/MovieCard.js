@@ -13,5 +13,5 @@ function MovieCard({
     </div>
   );
 }
-
+//
 export default MovieCard;
